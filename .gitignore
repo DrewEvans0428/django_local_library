@@ -224,3 +224,5 @@ __marimo__/
 
 # Database
 *.sqlite3
+
+django_test/mytestsite/django_repair/
